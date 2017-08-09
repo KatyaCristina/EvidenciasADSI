@@ -1,0 +1,45 @@
+
+
+
+.contenedor{
+	border:2px solid #BAD7EA;
+	padding:10px;
+	width:50%;
+	height:20%;
+	margin:auto;
+	margin-top:80px;
+	color:#04507F;
+	
+}
+.contenedor1{
+	border:2px solid #BAD7EA;
+	padding:10px;
+	width:80%;
+	height:80%;
+	margin:auto;
+	margin-top:10px;
+	
+	
+}
+.contenedor2{
+	
+	padding:10px;
+	width:60%;
+	height:80%;
+	margin:auto;
+	margin-top:100px;
+	color:#04507F;
+	background:none;
+	
+	
+}
+h3{
+	font-size:24px;
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+
+
+
